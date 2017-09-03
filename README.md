@@ -48,7 +48,7 @@ You can look at the [focus-starter-kit](https://github.com/KleeGroup/focus-start
 ### Node
 - [Underscore.js](http://underscorejs.org/)
 - [Backbone.js](http://backbonejs.org/)
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - Promises with [Bluebird](https://github.com/petkaantonov/bluebird)
 
 ## [Contributors](https://github.com/KleeGroup/focus/graphs/contributors)
